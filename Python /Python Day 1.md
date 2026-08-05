@@ -15,7 +15,7 @@ print("city")
 print("town")
 print("Yay now for excerise")
 
-# Excercise
+# Exercise
 
 Create a new Python file and use print() to display the following:
 
