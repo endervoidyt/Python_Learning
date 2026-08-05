@@ -40,11 +40,3 @@ London
 I am learning Python!
 100
 Hello, World!
-
-Bonus ⭐⭐
-Can you make Python print this?
-
-*****
-*   *
-*****
-(Hint: Use multiple print() statements.)
